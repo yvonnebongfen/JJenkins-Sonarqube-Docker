@@ -1,2 +1,2 @@
-FROM nginx
-COPY . /usr/share/nginx/html/
+FROM busybox
+COPY . /usr/share/busybox/html/
